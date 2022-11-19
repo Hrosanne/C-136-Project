@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    font-family: "Sofia", sans-serif;
+}
+
+.text{
+    color: lightblue;
+    font-family: "Sofia", sans-serif;
+    font-size: 15px;
+}
+
+.text1{
+    color: lightskyblue;
+    font-family: "Sofia", sans-serif;font-size: 18px;
+}
+
+.input{
+    width: 25%;
+    font-family: "Sofia", sans-serif;
+}
+
+.start{
+    font-family: "Sofia", sans-serif;
+    font-size: 15px;
+}
+
+#status,#object_found{
+    font-family: "Sofia", sans-serif;
+}
+
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px,5px,5px,white;
+}
